@@ -72,13 +72,13 @@ Page({
    */
   onShareAppMessage: function () {
     return {
-      title: '关于 - 中大猫谱'
+      title: '关于 - 梅花行踪'
     }
   },
 
   onShareTimeline:function () {
     return {
-      title: '中大猫谱 - 记录校园身边的猫咪',
+      title: '梅花行踪 - 记录校园身边的猫咪',
     }
   },
 

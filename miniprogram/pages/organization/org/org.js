@@ -106,7 +106,7 @@ Page({
   onShareAppMessage: function () {
     var org = this.data.org;
     return {
-      title: `${org.name} - 中大猫谱`
+      title: `${org.name} - 梅花行踪`
     }
   },
 
@@ -114,7 +114,7 @@ Page({
   onShareTimeline: function () {
     var org = this.data.org;
     return {
-      title: `${org.name} - 中大猫谱`
+      title: `${org.name} - 梅花行踪`
     }
   },
   

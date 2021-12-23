@@ -111,6 +111,7 @@ swiper-item image {
   background-color: var(--color-primary);
   padding: 6rpx 15rpx 8rpx 15rpx;
   margin-right: 20rpx;
+  color: #fff;
 }
 
 

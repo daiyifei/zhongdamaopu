@@ -89,10 +89,10 @@
         </view>
       </view>
     </view>
-    <view wx:if="{{adStep && (index+1)%adStep===0}}" class="card-ad {{ad_show['ad-'+(index+1)]? '': 'hidden'}}">
+    <!-- <view wx:if="{{adStep && (index+1)%adStep===0}}" class="card-ad {{ad_show['ad-'+(index+1)]? '': 'hidden'}}">
       <ad unit-id="{{ad.banner}}" ad-intervals="120"
       bindload="adLoad" binderror="adError" bindclose="adClose" data-ad_id='ad-{{(index+1)}}'></ad>
-    </view>
+    </view> -->
   </block>
 
   <view class='loading' wx:if='{{!loadnomore}}'>

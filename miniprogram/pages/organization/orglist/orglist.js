@@ -71,13 +71,13 @@ Page({
    */
   onShareAppMessage: function () {
     return {
-      title: '串门 - 中大猫谱'
+      title: '串门 - 梅花行踪'
     }
   },
 
   onShareTimeline:function () {
     return {
-      title: '中大猫谱 - 发现校园身边的猫咪',
+      title: '梅花行踪 - 发现校园身边的猫咪',
     }
   },
 

@@ -156,14 +156,14 @@ Page({
   onShareAppMessage: function () {
     const pagesStack = getCurrentPages();
     const path = getCurrentPath(pagesStack);
-    console.log(shareTo(this.data.cat.name + ' - 中大猫谱', path))
-    return shareTo(this.data.cat.name + ' - 中大猫谱', path);
+    console.log(shareTo(this.data.cat.name + ' - 梅花行踪', path))
+    return shareTo(this.data.cat.name + ' - 梅花行踪', path);
   },
 
   // onShareTimeline:function () {
   //   console.log('cat_id=' + this.data.cat._id);
   //   return {
-  //     title: '中大猫谱 - 记录校园身边的猫咪',
+  //     title: '梅花行踪 - 记录校园身边的猫咪',
   //     // query: 'cat_id=' + this.data.cat._id
   //   }
   // },

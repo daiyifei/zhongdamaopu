@@ -32,7 +32,7 @@
     "pages/recognize/recognize"
   ],
   "tabBar": {
-    "selectedColor": "#000",
+    "selectedColor": "#fb7299",
     "borderStyle": "white",
     "list": [
       {
@@ -40,12 +40,6 @@
         "iconPath": "./images/tabs/default/cat.png",
         "selectedIconPath": "./images/tabs/active/cat.png",
         "text": "猫谱"
-      },
-      {
-        "pagePath": "pages/recognize/recognize",
-        "iconPath": "./images/tabs/default/recog.png",
-        "selectedIconPath": "./images/tabs/active/recog.png",
-        "text": "识猫"
       },
       {
         "pagePath": "pages/science/science",
@@ -64,9 +58,9 @@
   "window": {
     "backgroundColor": "#fff",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#ffd101",
-    "navigationBarTitleText": "中大猫谱",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#fb7299",
+    "navigationBarTitleText": "梅花行踪",
+    "navigationBarTextStyle": "white"
   },
   "supportedMaterials": [
     {

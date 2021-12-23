@@ -4,8 +4,7 @@
 <view class='block'>
   <view class='title'>打赏罐头</view>
   <view class='desc'>
-    <text wx:if="{{canUpload}}">您的捐款及广告收入将用作购买救助物资及送医，每月的收支都会在<text class='hl'>笃行志愿服务队</text>公众平台进行公开，感谢您对中大流浪猫的帮助与支持！\n喵(^･ｪ･^)</text>
-    <text wx:else>您的捐款及广告收入将用作服务器及流量开销，每月的收支都会在公众平台进行公开，感谢您对中大猫谱小程序的帮助与支持！\n喵(^･ｪ･^)</text>
+    <text>您的捐款及广告收入将用作购买救助物资及送医，感谢您对南师大流浪猫的帮助与支持！\n喵(^･ｪ･^)</text>
   </view>
   <view style='flex-basis:100%;'>
     <!-- 打开小程序 -->

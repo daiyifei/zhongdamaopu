@@ -65,7 +65,7 @@ Page({
    */
   onShareAppMessage: function () {
     return {
-      title: '打赏罐头 - 中大猫谱'
+      title: '打赏罐头 - 梅花行踪'
     }
   },
 

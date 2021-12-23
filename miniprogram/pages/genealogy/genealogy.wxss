@@ -186,6 +186,7 @@ scroll-view {
   top: 30rpx;
   left: -17.5rpx;
   z-index: 1;
+  color: #fff;
 }
 
 .card .label::after {
@@ -345,13 +346,13 @@ scroll-view {
   color: black;
   background-color: var(--color-primary);
   border-radius: 40rpx;
+  color: #fff;
 }
 
 .f-column .item .right-arrow {
   width: 20rpx;
   height: 40rpx;
   margin-left: 10rpx;
-
   display: inline-block;
 }
 

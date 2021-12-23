@@ -387,7 +387,7 @@ Page({
 
   onShareAppMessage() {
     return {
-      title: '拍照识猫 - 中大猫谱',
+      title: '拍照识猫 - 梅花行踪',
       imageUrl: '../../images/recognize/share_cover.jpg'
     };
   },

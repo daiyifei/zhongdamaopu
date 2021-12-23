@@ -1,9 +1,9 @@
 // const { fail } = require("assert");
 
-const verifyTplId = 'AtntuAUGnzoBumjfmGB8Yyc-67FUxRH5Cw7bnEYFCXo'; //审核结果通知模板Id
-const feedbackTplId = 'IeKS7nPSsBy62REOKiDC2zuz_M7RbKwR97ZiIy_ocmw'; // 反馈回复结果模板Id
-const notifyVerifyTplId = 'jxcvND-iLSQZLZhlHD2A91gY0tLSfzyYc3bl39bxVuk'; // 提醒审核模版Id
-const notifyChkFeedbackTplId = 'jxcvND-iLSQZLZhlHD2A97jP3fm_FWV4wL_GFUcLxcQ';
+const verifyTplId = 'bV8r4Xvlhg1X0P9tZNIkElsEmw0yYiYuf4ieZgHoqyI'; //审核结果通知模板Id
+const feedbackTplId = 'ifq_hCChcDyLkO0P35xj4AQeXCWUWoQVebWhhIIH9ig'; // 反馈回复结果模板Id
+const notifyVerifyTplId = '-_kDAhKGg2gI5OOo_j5OGyCCWOJdZzd2dtsUf9isg8A'; // 提醒审核模版Id
+const notifyChkFeedbackTplId = '-_kDAhKGg2gI5OOo_j5OG_Ma4yk2_nDiPZyX6EMYfUU';
 
 async function requestNotice(template) {
   var tplId;
