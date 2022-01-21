@@ -24,6 +24,7 @@
   position: absolute;
   top: -20rpx;
   left: -15rpx;
+  color: #fff;
 }
 
 .block .desc {
@@ -56,6 +57,7 @@ button {
 
 button.primary {
   background-color: var(--color-primary);
+  color: #fff;
 }
 
 /* 最后的小tip */

@@ -195,7 +195,7 @@ swiper-item image {
   background-color: var(--color-primary);
   padding: 25rpx 20rpx;
   margin-right: 40rpx;
-
+  color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -205,6 +205,7 @@ swiper-item image {
   height: 25rpx;
   width: 25rpx;
   margin: 0 0 0 10rpx ;
+  color: #fff;
 }
 .sort-button .type {
   font-weight: 300;
@@ -291,6 +292,7 @@ swiper-item image {
   width: 60%;
   height: 60%;
   margin-left: 5%;
+  color: #fff;
 }
 
 /* 下面开始悬浮标题 */

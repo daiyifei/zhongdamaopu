@@ -20,7 +20,7 @@
   </view>
 </view>
 
-<view class='tip'>* 每月统计一次，在公众号公示，多谢晒（鞠躬）</view>
+<!-- <view class='tip'>* 每月统计一次，在公众号公示，多谢晒（鞠躬）</view> -->
 
 <view class='block'>
   <view class='title'>打赏记录</view>

@@ -96,6 +96,7 @@ input.content {
 button.bottom {
   width: 100%;
   background-color: var(--color-primary);
+  color: #fff;
 }
 
 .bottom-bar {
