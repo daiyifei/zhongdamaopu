@@ -19,6 +19,7 @@ button {
 
 button.primary {
   background-color: var(--color-primary);
+  color: #fff;
 }
 
 button.long {

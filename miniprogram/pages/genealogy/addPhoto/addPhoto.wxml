@@ -2,7 +2,7 @@
     <view class='userInfo'>
       <image src='../../../images/user.png'></image>
       <view>
-        <text>[请wx联系笃行添加照片] TAT\n</text>
+        <text>[请微信联系梅花行踪添加照片]</text>
       </view>
     </view>
   <button class='long primary' bindtap="goBackIndex">返回首页</button>

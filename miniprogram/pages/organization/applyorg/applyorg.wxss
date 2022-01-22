@@ -31,6 +31,7 @@ button.long {
 
 button.primary {
   background-color: var(--color-primary);
+  color: #fff;
 }
 input, picker, textarea {
   width: 650rpx;

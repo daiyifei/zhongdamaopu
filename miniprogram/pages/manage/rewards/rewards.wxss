@@ -20,6 +20,7 @@ button {
 
 button.primary {
   background-color: var(--color-primary);
+  color: #fff;
 }
 
 button + button {
@@ -107,4 +108,5 @@ input, picker, textarea {
 
 .bottom-bar button.primary, .bottom-bar button.long {
   margin-top: 0;
+  color: #fff;
 }

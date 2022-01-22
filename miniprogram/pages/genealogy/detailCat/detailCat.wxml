@@ -162,9 +162,8 @@ next-margin='60rpx'>
 </view>
 <!-- album end -->
 
-<!-- <image wx:if="{{canUpload}}" id='add-photo-btn' src='../../../images/plus.png' bindtap='bindAddPhoto'></image> -->
-<view class="addPhoto" bindtap='bindAddPhoto'>
-<image class="icon" wx:if="{{canUpload}}" src='../../../images/addPhoto.png'></image>
+<view class="addPhoto" bindtap='bindAddPhoto' >
+  <image class="icon" src='../../../images/addPhoto.png'></image>
 </view>
 </scroll-view>
 
